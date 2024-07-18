@@ -1,0 +1,1 @@
+# This should ba an abstract class, there should be a few types of tasks: a timed task, shopping list and more that will inherit from Task.
